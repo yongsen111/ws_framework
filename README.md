@@ -1,5 +1,6 @@
 ws_framework
 ============
 
-ws_framework
-222
+一个简单的mvc结构php框架
+http://www.odaboy.com
+QQ:5735524
